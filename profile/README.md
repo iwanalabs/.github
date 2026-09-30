@@ -2,9 +2,7 @@
 
 # Iwana Labs
 
-We build and operate production AI systems.
-
-We are a boutique AI consultancy in Madrid.
+We are a boutique AI consultancy in Madrid. We build and operate production AI systems.
 
 ## What we build
 
